@@ -20,4 +20,7 @@ public class BuildingType {
     public String toString() {
         return type;
     }
+
+    
+
 }
